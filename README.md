@@ -1,4 +1,4 @@
-# VVS : Video-to-Video Retrieval With Irrelevant Frame Suppression
+# [AAAI-24] VVS : Video-to-Video Retrieval With Irrelevant Frame Suppression
 
 ### Official Pytorch Implementation of [VVS: Video-to-Video Retrieval With Irrelevant Frame Suppression](https://arxiv.org/abs/2303.08906) 
 

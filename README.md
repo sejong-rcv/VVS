@@ -16,7 +16,7 @@
 
 - The process of fast evaluation for **VVS on FIVR5K** can be summarized into 3 steps:
 
-  1. Download the data from an [Google Drive link](https://drive.google.com/file/d/1r0buzv8hBzaNlNlOxo-2Oc1xuxzhFHvC/view?usp=sharing).
+  1. Download the data from an [Google Drive link](https://drive.google.com/file/d/10H8VKXVFDc_y6JJRq3smoe62uHMkBbnI/view?usp=drive_link).
 
   2. Please locate the data as below
      * Place the ```pca.pkl``` inside a ```VVS/data/vcdb``` folder
@@ -118,7 +118,7 @@ conda activate VVS
 
 # 🔄 Running
 
-* Before running, Place the [pca.pkl](https://drive.google.com/file/d/1FqPWYD38qD1PE-Pc7sqdHor-tCtpL4a2/view?usp=drive_link) inside a ```VVS/data/vcdb``` folder or you can calculate PCA weight directly ```python cal_pca.py```.
+* Before running, Place the [pca.pkl](https://drive.google.com/file/d/16Ec6BfdOgwzF3cJcOyQdI6dPZAeyZFVh/view?usp=drive_link) inside a ```VVS/data/vcdb``` folder or you can calculate PCA weight directly ```python cal_pca.py```.
 * You can easily evaluate the model by running the provided script.
 
 
@@ -126,7 +126,7 @@ conda activate VVS
 
 
 # 🔑 Models
-We provide [checkpoints](https://drive.google.com/file/d/1UBvbXUzFpElwrqlTwWwVBAekvgpQkzbi/view?usp=drive_link), to succesfully reproduce our benchmark experiments.
+We provide [checkpoints](https://drive.google.com/file/d/1TXRR5JH0jS-zTapLFDVkB9vvrEpPVWuL/view?usp=drive_link), to succesfully reproduce our benchmark experiments.
 
 * You can run the script according to the **feature dimension**.
 

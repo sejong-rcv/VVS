@@ -1,10 +1,10 @@
-# [AAAI-24] VVS : Video-to-Video Retrieval With Irrelevant Frame Suppression
+# [AAAI-24] VVS : Video-to-Video Retrieval <br> With Irrelevant Frame Suppression [[Project Page]](https://projectvvs2024.github.io/) 
 
 ### Official Pytorch Implementation of [VVS: Video-to-Video Retrieval With Irrelevant Frame Suppression](https://arxiv.org/abs/2303.08906) 
 
 <p align="center"><img src="fig/illustration_concept_1.png" width="900"></p>
 
-> **Paper**: [Video-to-Video Retrieval With Irrelevant Frame Suppression](https://arxiv.org/abs/2303.08906) 
+> **Paper**: [Video-to-Video Retrieval With Irrelevant Frame Suppression](https://arxiv.org/abs/2303.08906)
 
 ---
 
